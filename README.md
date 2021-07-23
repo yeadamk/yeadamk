@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yeadam
 - 🌱 I’m currently learning Javascript and C++
-- 📫 Reach me out via email: yes725044@gmail.com
+- 📫 Reach me out via [email](yes725044@gmail.com).
 
 <!---
 yeadamk/yeadamk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
