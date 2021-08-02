@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Yeadam Kim
-- 🌱 I’m currently learning Javascript and C++
-- 📫 Reach me out via email: yes725044@gmail.com
+### Hi there; I'm Yeadam Kim  
 
-<!---
-yeadamk/yeadamk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- College Student
+- Currently learning Javascript and C++
+- Novice Programmer
+
+
+![](https://github-readme-stats.vercel.app/api?username=yeadamk&show_icons=true&theme=material-palenight&count_private=true)
+
+## Contact
+
+Reach me via email: yes725044@gmail.com
