@@ -4,8 +4,7 @@
 - Currently learning Javascript and C++
 - Novice Programmer
 
-
-![](https://github-readme-stats.vercel.app/api?username=yeadamk&show_icons=true&theme=material-palenight&count_private=true)
+![Yeadam's GitGub Stats](https://github-readme-stats.vercel.app/api?username=yeadamk&show_icons=true&theme=material-palenight&count_private=true)
 
 ## Contact
 
