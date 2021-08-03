@@ -13,5 +13,8 @@
 
 ![Yeadam's GitGub Stats](https://github-readme-stats.vercel.app/api?username=yeadamk&show_icons=true&theme=material-palenight&count_private=true)
 
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeadamk&theme=material-palenight&layout=compact)
+
 ## Contact
 Reach me via email: yes725044@gmail.com
