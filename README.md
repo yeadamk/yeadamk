@@ -1,7 +1,7 @@
 ## :wave: Hello there
 
 My name is Yeadam Kim.  
-I'm a college student who mainly use GitHub for private personal projects 👨‍🎓
+I'm a college student who mainly uses GitHub for private personal projects 👨‍🎓
 
 ## :hammer_and_wrench: Languages and Tools
 
