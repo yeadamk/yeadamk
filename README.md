@@ -3,6 +3,8 @@
 My name is Yeadam Kim.  
 I'm a college student who mainly uses GitHub for private personal projects 👨‍🎓
 
+NOTE: There's not much to see since all my repos are private, but I am working on posting my projects on my website at [www.yeadamkim.com](www.yeadamkim.com).
+
 ## :hammer_and_wrench: Languages and Tools
 
 ### Familiar:
