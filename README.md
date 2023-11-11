@@ -1,7 +1,7 @@
 ## :wave: Hello there
 
 My name is Yeadam Kim.  
-I'm a student who uses mainly GitHub for personal projects 👨‍🎓  
+I'm a student who mainly uses GitHub for personal projects 👨‍🎓  
 
 Website: [yeadamkim.com](https://www.yeadamkim.com)  
 
