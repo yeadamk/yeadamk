@@ -1,6 +1,6 @@
 ## :wave: Hello there
 
-My name is Yeadam Kim 👨‍🎓 
+My name is Yeadam Kim 👨‍🎓  
 ༼ つ ◕_◕ ༽つ
 
 Website: [yeadamkim.com](https://www.yeadamkim.com)  
