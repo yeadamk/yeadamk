@@ -27,6 +27,8 @@ Website: [yeadamkim.com](https://www.yeadamkim.com)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <!-- ![Yeadam's GitGub Stats](https://github-readme-stats.vercel.app/api?username=yeadamk&show_icons=true&theme=material-palenight&count_private=false) -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeadamk&theme=material-palenight&layout=compact) -->
