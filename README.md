@@ -40,6 +40,7 @@ Website: [yeadamkim.com](https://www.yeadamkim.com)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- ![Yeadam's GitGub Stats](https://github-readme-stats.vercel.app/api?username=yeadamk&show_icons=true&theme=material-palenight&count_private=false) -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeadamk&theme=material-palenight&layout=compact) -->
